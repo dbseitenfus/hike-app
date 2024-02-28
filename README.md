@@ -7,4 +7,4 @@ Hike is a simple and beautiful app developed for iOS with the aim of studying UI
 <img src="https://github.com/dbseitenfus/hike-app/assets/20246441/88cf97e3-4b0b-410c-8a48-5744e5cae126" alt="Texto alternativo" style="width: 400px; height: 400px;" />
 
 # Acknowledgments
-Based on classes of [credo.academy](https://credo.academy/)https://credo.academy/
+Based on classes of [credo.academy](https://credo.academy/)
